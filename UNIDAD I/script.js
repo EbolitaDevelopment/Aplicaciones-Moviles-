@@ -9,7 +9,7 @@ Las variables guardan información reutilizable
 */
 
 //Declaración de las variables
-let nombre = "Leonardo"
+let nombre = "Leonardo" 
 const PI = 3.1416;
 var edad = 16;
 
